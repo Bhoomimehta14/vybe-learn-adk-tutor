@@ -220,8 +220,8 @@ tested path. Supported: **Gemini**, **Anthropic**, and **Mock** (deterministic).
 ## 9. Installation
 
 ```bash
-git clone https://github.com/kanishkaanand0911-dotcom/personalized-data-science-tutor.git
-cd personalized-data-science-tutor
+git clone https://github.com/Bhoomimehta14/vybe-learn-adk-tutor.git
+cd vybe-learn-adk-tutor
 
 python3 -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
