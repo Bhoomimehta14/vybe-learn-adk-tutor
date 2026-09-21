@@ -14,3 +14,10 @@ data/charts/
 
 # ADK's local session/artifact storage for the tutor_agent app.
 tutor_agent/.adk/
+
+
+# IDE / OS
+.idea/
+.vscode/
+.claude/
+.DS_Store
